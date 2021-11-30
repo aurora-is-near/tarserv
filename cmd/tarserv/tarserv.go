@@ -9,7 +9,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/aurora-is/tarserv/src/deliver"
+	"github.com/aurora-is-near/tarserv/src/deliver"
 )
 
 var (

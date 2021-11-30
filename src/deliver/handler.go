@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/aurora-is/tarserv/src/tarindex"
+	"github.com/aurora-is-near/tarserv/src/tarindex"
 )
 
 const defaultFilename = "data.tar"

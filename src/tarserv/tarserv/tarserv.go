@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/aurora-is/tarserv/src/tarserv"
+	"github.com/aurora-is-near/tarserv/src/tarserv"
 )
 
 var (

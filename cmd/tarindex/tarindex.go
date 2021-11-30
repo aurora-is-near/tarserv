@@ -6,9 +6,9 @@ import (
 	"os"
 	"path"
 
-	"github.com/aurora-is/tarserv/src/tarindex"
+	"github.com/aurora-is-near/tarserv/src/tarindex"
 
-	"github.com/aurora-is/tarserv/src/util"
+	"github.com/aurora-is-near/tarserv/src/util"
 )
 
 var (

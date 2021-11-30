@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/aurora-is/tarserv/src/splitting"
+	"github.com/aurora-is-near/tarserv/src/splitting"
 )
 
 func TestTar(t *testing.T) {

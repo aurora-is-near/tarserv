@@ -5,7 +5,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/aurora-is/tarserv/src/splitting"
+	"github.com/aurora-is-near/tarserv/src/splitting"
 )
 
 func main() {
